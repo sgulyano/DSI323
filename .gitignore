@@ -1,0 +1,8 @@
+
+*.json
+
+activity2/.ipynb_checkpoints/
+
+activity3/.ipynb_checkpoints/
+
+.ipynb_checkpoints/
